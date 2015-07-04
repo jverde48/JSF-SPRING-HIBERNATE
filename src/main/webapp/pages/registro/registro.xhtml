@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:j="http://java.sun.com/jsp/jstl/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:p="http://primefaces.org/ui">
+<h:body>
+	<ui:composition template="/templates/layout.xhtml">
+		<ui:define name="content">
+			<h2>Registro Incial:</h2>
+            <h:form>
+            	<p:messages autoUpdate="true" closable="true" showDetail="false"/>
+            	<p:panel header="Registro de Usuario" style="width: 100%;">
+            		<h:panelGrid columns="4" width="100%"> 
+            			<h:outputLabel value="Nombre: *" for="nombre"/>
+            			<p:inputText id="nombre" value="#{personaBean.personaDTO.nombre}" required="true" />
+            			
+            			<h:outputLabel value="Primer Apellido *" for="primerApellido"/>
+            			<p:inputText id="primerApellido" value="#{personaBean.personaDTO.primerApellido}" required="true"/>
+            			
+            			<h:outputLabel value="Segundo Apellido: " for="segundoApellido"/>
+            			<p:inputText id="segundoApellido" value="#{personaBean.personaDTO.segundoApellido}"/>
+            			
+            			<h:outputLabel value="Edad: *" for="edad"/>
+            			<p:inputText id="edad" value="#{personaBean.personaDTO.edad}" required="true"/>
+            			
+            			<h:outputLabel value="Fecha Nacimiento: *" for="fechaNacimiento"/>
+            			<p:calendar id="fechaNacimiento" value="#{personaBean.personaDTO.fechaNacimiento}" navigator="true"/>
+            			
+            			<h:outputLabel value="Correo Electr&oacute;nico: *" for="email"/>
+            			<p:inputText id="email" value="#{personaBean.personaDTO.correoElectronico}" required="true"/>
+            			
+            			<h:outputLabel value="Usuario: *" for="usuario"/>
+            			<p:inputText id="usuario" value="#{personaBean.personaDTO.usuario}" required="true"/>
+            			
+            			<h:outputLabel value="Contrase&ntilde;a: *" for="pass"/>
+            			<p:password id="pass" value="#{personaBean.personaDTO.contrasenia}" required="true"/>
+            		</h:panelGrid>
+            		
+            		<p:separator></p:separator>
+            		
+            		<h:panelGrid columns="4" width="100%"> 
+            			<h:outputLabel value="Calle: *" for="calle"/>
+            			<p:inputText id="calle" value="#{personaBean.personaDTO.direccion.calle}" required="true"/>
+            			
+            			<h:outputLabel value="Número Ext.: *" for="numExt"/>
+            			<p:inputText id="numExt" value="#{personaBean.personaDTO.direccion.numeroExterior}" required="true"/>
+            			
+            			<h:outputLabel value="Número Int.: " for="numInt"/>
+            			<p:inputText id="numInt" value="#{personaBean.personaDTO.direccion.numeroInterior}" />
+            			
+            			<h:outputLabel value="Codigo Postal: *" for="cp"/>
+            			<p:inputText id="cp" value="#{personaBean.personaDTO.direccion.codigoPostal}" required="true"/>
+            			
+            			<h:outputLabel value="País: *" for="pais"/>
+            			<p:selectOneMenu id="pais" value="#{personaBean.personaDTO.direccion.pais}" required="true">
+            				<f:selectItem itemValue=""/>
+            				<f:selectItems value="#{personaBean.listaPaises}"/>
+            			</p:selectOneMenu>
+            			
+            			<h:outputLabel value="Estado: *" for="estado"/>
+            			<p:selectOneMenu id="estado" value="#{personaBean.personaDTO.direccion.estado}" required="true">
+            				<f:selectItem itemValue=""/>
+            				<f:selectItems value="#{personaBean.listaEstados}"/>
+            			</p:selectOneMenu>
+            			
+            			<h:outputLabel value="Municipio: *" for="municipio"/>
+            			<p:selectOneMenu id="municipio" value="#{personaBean.personaDTO.direccion.municipio}" required="true">
+            				<f:selectItem itemValue=""/>
+            				<f:selectItems value="#{personaBean.listaMunicipios}"/>
+           				</p:selectOneMenu>
+            		</h:panelGrid>
+            		<p:separator/>
+            		<p:commandButton value="Realizar Registro" ajax="false" actionListener="#{personaBean.guardarRegistro}"/>
+            	</p:panel>
+            </h:form>
+		</ui:define>
+	</ui:composition>
+</h:body>
+</html>
