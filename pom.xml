@@ -67,7 +67,7 @@
 							<appendAssemblyId>false</appendAssemblyId>
 							<archive>
 								<manifest>
-									<mainClass>mx.santander.sql.connector.principal.SQLConnector</mainClass>
+									<mainClass>paquete.clase.principal</mainClass>
 								</manifest>
 							</archive>
 						</configuration>
