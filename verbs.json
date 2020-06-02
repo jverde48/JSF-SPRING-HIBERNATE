@@ -1,0 +1,1570 @@
+{
+	"504": {
+		"tipo": "R",
+		"formaSimple": "YAWN",
+		"pasadoSimple": "YAWNED",
+		"pasadoParticipio": "YAWNED",
+		"significado": "Bostezar",
+		"nik": null
+	},
+	"503": {
+		"tipo": "I",
+		"formaSimple": "WRITE",
+		"pasadoSimple": "WROTE",
+		"pasadoParticipio": "WRITTEN",
+		"significado": "Escribir - Redactar",
+		"nik": null
+	},
+	"502": {
+		"tipo": "I",
+		"formaSimple": "WRING",
+		"pasadoSimple": "WRUNG",
+		"pasadoParticipio": "WRUNG",
+		"significado": "Exprimir - Escurrir - Retorcer",
+		"nik": null
+	},
+	"501": {
+		"tipo": "R",
+		"formaSimple": "WRAP",
+		"pasadoSimple": "WRAPPED",
+		"pasadoParticipio": "WRAPPED",
+		"significado": "Envolver - Embalar",
+		"nik": null
+	},
+	"500": {
+		"tipo": "R",
+		"formaSimple": "WORRY",
+		"pasadoSimple": "WORRIED",
+		"pasadoParticipio": "WORRIED",
+		"significado": "Preocupar(se) - Inquietar(se)",
+		"nik": null
+	},
+	"499": {
+		"tipo": "R",
+		"formaSimple": "WORK",
+		"pasadoSimple": "WORKED",
+		"pasadoParticipio": "WORKED",
+		"significado": "Trabajar",
+		"nik": null
+	},
+	"498": {
+		"tipo": "R",
+		"formaSimple": "WONDER",
+		"pasadoSimple": "WONDERED",
+		"pasadoParticipio": "WONDERED",
+		"significado": "Maravillarse - Preguntarse",
+		"nik": null
+	},
+	"497": {
+		"tipo": "I",
+		"formaSimple": "WITHDRAW",
+		"pasadoSimple": "WITHDREW",
+		"pasadoParticipio": "WITHDRAWN",
+		"significado": "Retirar(se) - Quitar - Apartar",
+		"nik": null
+	},
+	"496": {
+		"tipo": "R",
+		"formaSimple": "WISH",
+		"pasadoSimple": "WISHED",
+		"pasadoParticipio": "WISHED",
+		"significado": "Desear",
+		"nik": null
+	},
+	"495": {
+		"tipo": "I",
+		"formaSimple": "WIN",
+		"pasadoSimple": "WON",
+		"pasadoParticipio": "WON",
+		"significado": "Ganar",
+		"nik": null
+	},
+	"494": {
+		"tipo": "R",
+		"formaSimple": "WHISTLE",
+		"pasadoSimple": "WHISTLED",
+		"pasadoParticipio": "WHISTLED",
+		"significado": "Silbar - Pitar",
+		"nik": null
+	},
+	"493": {
+		"tipo": "R",
+		"formaSimple": "WEIGH",
+		"pasadoSimple": "WEIGHED",
+		"pasadoParticipio": "WEIGHED",
+		"significado": "Pesar - Ponderar",
+		"nik": null
+	},
+	"492": {
+		"tipo": "I",
+		"formaSimple": "WEEP",
+		"pasadoSimple": "WEPT",
+		"pasadoParticipio": "WEPT",
+		"significado": "Llorar - Sollozar - Lamentarse",
+		"nik": null
+	},
+	"491": {
+		"tipo": "I",
+		"formaSimple": "WED",
+		"pasadoSimple": "WED",
+		"pasadoParticipio": "WED",
+		"significado": "Casar(se) - Unirse con",
+		"nik": null
+	},
+	"490": {
+		"tipo": "I",
+		"formaSimple": "WEAR",
+		"pasadoSimple": "WORE",
+		"pasadoParticipio": "WORN",
+		"significado": "Usar - Llevar puesto",
+		"nik": null
+	},
+	"489": {
+		"tipo": "R",
+		"formaSimple": "WAVE",
+		"pasadoSimple": "WAVED",
+		"pasadoParticipio": "WAVED",
+		"significado": "Agitar - Ondear",
+		"nik": null
+	},
+	"488": {
+		"tipo": "R",
+		"formaSimple": "WATCH",
+		"pasadoSimple": "WATCHED",
+		"pasadoParticipio": "WATCHED",
+		"significado": "Mirar - Observar - Vigilar",
+		"nik": null
+	},
+	"487": {
+		"tipo": "R",
+		"formaSimple": "WASH",
+		"pasadoSimple": "WASHED",
+		"pasadoParticipio": "WASHED",
+		"significado": "Lavar",
+		"nik": null
+	},
+	"486": {
+		"tipo": "R",
+		"formaSimple": "WARM",
+		"pasadoSimple": "WARMED",
+		"pasadoParticipio": "WARMED",
+		"significado": "Calentar - Acalorar",
+		"nik": null
+	},
+	"485": {
+		"tipo": "R",
+		"formaSimple": "WANT",
+		"pasadoSimple": "WANTED",
+		"pasadoParticipio": "WANTED",
+		"significado": "Querer - Desear",
+		"nik": null
+	},
+	"484": {
+		"tipo": "R",
+		"formaSimple": "WALK",
+		"pasadoSimple": "WALKED",
+		"pasadoParticipio": "WALKED",
+		"significado": "Caminar",
+		"nik": null
+	},
+	"483": {
+		"tipo": "I",
+		"formaSimple": "WAKE",
+		"pasadoSimple": "WOKE",
+		"pasadoParticipio": "WOKEN",
+		"significado": "Despertar(se)",
+		"nik": null
+	},
+	"482": {
+		"tipo": "R",
+		"formaSimple": "WAIT FOR",
+		"pasadoSimple": "WAITED FOR",
+		"pasadoParticipio": "WAITED FOR",
+		"significado": "Esperar",
+		"nik": null
+	},
+	"481": {
+		"tipo": "R",
+		"formaSimple": "VISIT",
+		"pasadoSimple": "VISITED",
+		"pasadoParticipio": "VISITED",
+		"significado": "Visitar",
+		"nik": null
+	},
+	"480": {
+		"tipo": "R",
+		"formaSimple": "VANISH",
+		"pasadoSimple": "VANISHED",
+		"pasadoParticipio": "VANISHED",
+		"significado": "Desvanecer(se)",
+		"nik": null
+	},
+	"479": {
+		"tipo": "R",
+		"formaSimple": "VACUUM",
+		"pasadoSimple": "VACUUMED",
+		"pasadoParticipio": "VACUUMED",
+		"significado": "Aspirar",
+		"nik": null
+	},
+	"478": {
+		"tipo": "R",
+		"formaSimple": "USE",
+		"pasadoSimple": "USED",
+		"pasadoParticipio": "USED",
+		"significado": "Usar - Emplear - Utilizar",
+		"nik": null
+	},
+	"461": {
+		"tipo": "I",
+		"formaSimple": "UPSET",
+		"pasadoSimple": "UPSET",
+		"pasadoParticipio": "UPSET",
+		"significado": "Alterar - Perturbar",
+		"nik": null
+	},
+	"460": {
+		"tipo": "I",
+		"formaSimple": "UNDERTAKE",
+		"pasadoSimple": "UNDERTOOK",
+		"pasadoParticipio": "UNDERTAKEN",
+		"significado": "Emprender - Encargarse de",
+		"nik": null
+	},
+	"459": {
+		"tipo": "I",
+		"formaSimple": "UNDERSTAND",
+		"pasadoSimple": "UNDERSTOOD",
+		"pasadoParticipio": "UNDERSTOOD",
+		"significado": "Entender - Comprender",
+		"nik": null
+	},
+	"458": {
+		"tipo": "R",
+		"formaSimple": "UNDERLINE",
+		"pasadoSimple": "UNDERLINED",
+		"pasadoParticipio": "UNDERLINED",
+		"significado": "Subrayar",
+		"nik": null
+	},
+	"457": {
+		"tipo": "R",
+		"formaSimple": "TYPE",
+		"pasadoSimple": "TYPED",
+		"pasadoParticipio": "TYPED",
+		"significado": "Digitar en teclado",
+		"nik": null
+	},
+	"456": {
+		"tipo": "R",
+		"formaSimple": "TURN",
+		"pasadoSimple": "TURNED",
+		"pasadoParticipio": "TURNED",
+		"significado": "Girar - Voltear",
+		"nik": null
+	},
+	"455": {
+		"tipo": "R",
+		"formaSimple": "TRY",
+		"pasadoSimple": "TRIED",
+		"pasadoParticipio": "TRIED",
+		"significado": "Intentar - Probar - Ensayar",
+		"nik": null
+	},
+	"454": {
+		"tipo": "R",
+		"formaSimple": "TRAVEL",
+		"pasadoSimple": "TRAVELED",
+		"pasadoParticipio": "TRAVELED",
+		"significado": "Viajar - Recorrer",
+		"nik": null
+	},
+	"453": {
+		"tipo": "R",
+		"formaSimple": "TRANSLATE",
+		"pasadoSimple": "TRANSLATED",
+		"pasadoParticipio": "TRANSLATED",
+		"significado": "Traducir",
+		"nik": null
+	},
+	"452": {
+		"tipo": "R",
+		"formaSimple": "TOUCH",
+		"pasadoSimple": "TOUCHED",
+		"pasadoParticipio": "TOUCHED",
+		"significado": "Tocar - Rozar",
+		"nik": null
+	},
+	"451": {
+		"tipo": "R",
+		"formaSimple": "TRUST",
+		"pasadoSimple": "TRUSTED",
+		"pasadoParticipio": "TRUSTED",
+		"significado": "Confiar - Creer",
+		"nik": null
+	},
+	"450": {
+		"tipo": "I",
+		"formaSimple": "THROW",
+		"pasadoSimple": "THREW",
+		"pasadoParticipio": "THROWN",
+		"significado": "Lanzar - Arrojar",
+		"nik": null
+	},
+	"449": {
+		"tipo": "I",
+		"formaSimple": "THINK",
+		"pasadoSimple": "THOUGHT",
+		"pasadoParticipio": "THOUGHT",
+		"significado": "Pensar - Creer",
+		"nik": null
+	},
+	"448": {
+		"tipo": "I",
+		"formaSimple": "TELL",
+		"pasadoSimple": "TOLD",
+		"pasadoParticipio": "TOLD",
+		"significado": "Decir - Contar",
+		"nik": null
+	},
+	"447": {
+		"tipo": "I",
+		"formaSimple": "TEAR",
+		"pasadoSimple": "TORE",
+		"pasadoParticipio": "TORN",
+		"significado": "Rasgar - Desgarrar - Arrancar",
+		"nik": null
+	},
+	"446": {
+		"tipo": "I",
+		"formaSimple": "TEACH",
+		"pasadoSimple": "TAUGHT",
+		"pasadoParticipio": "TAUGHT",
+		"significado": "Enseñar",
+		"nik": null
+	},
+	"445": {
+		"tipo": "R",
+		"formaSimple": "TASTE",
+		"pasadoSimple": "TASTED",
+		"pasadoParticipio": "TASTED",
+		"significado": "Saborear - Catar - Probar",
+		"nik": null
+	},
+	"444": {
+		"tipo": "R",
+		"formaSimple": "TALK",
+		"pasadoSimple": "TALKED",
+		"pasadoParticipio": "TALKED",
+		"significado": "Hablar - Conversar",
+		"nik": null
+	},
+	"443": {
+		"tipo": "I",
+		"formaSimple": "TAKE",
+		"pasadoSimple": "TOOK",
+		"pasadoParticipio": "TAKEN",
+		"significado": "Tomar - Agarrar - Coger",
+		"nik": null
+	},
+	"442": {
+		"tipo": "I",
+		"formaSimple": "SWING",
+		"pasadoSimple": "SWUNG",
+		"pasadoParticipio": "SWUNG",
+		"significado": "Balancear - Columpiar",
+		"nik": null
+	},
+	"441": {
+		"tipo": "I",
+		"formaSimple": "SWIM",
+		"pasadoSimple": "SWAM",
+		"pasadoParticipio": "SWUM",
+		"significado": "Nadar",
+		"nik": null
+	},
+	"440": {
+		"tipo": "I",
+		"formaSimple": "SWEEP",
+		"pasadoSimple": "SWEPT",
+		"pasadoParticipio": "SWEPT",
+		"significado": "Barrer",
+		"nik": null
+	},
+	"439": {
+		"tipo": "I",
+		"formaSimple": "SWEAR",
+		"pasadoSimple": "SWORE",
+		"pasadoParticipio": "SWORN",
+		"significado": "Jurar",
+		"nik": null
+	},
+	"438": {
+		"tipo": "R",
+		"formaSimple": "SURROUND",
+		"pasadoSimple": "SURROUNDED",
+		"pasadoParticipio": "SURROUNDED",
+		"significado": "Rodear - Cercar",
+		"nik": null
+	},
+	"437": {
+		"tipo": "R",
+		"formaSimple": "SUPPOSE",
+		"pasadoSimple": "SUPPOSED",
+		"pasadoParticipio": "SUPPOSED",
+		"significado": "Suponer",
+		"nik": null
+	},
+	"436": {
+		"tipo": "R",
+		"formaSimple": "SUPPORT",
+		"pasadoSimple": "SUPPORTED",
+		"pasadoParticipio": "SUPPORTED",
+		"significado": "Soportar - Sostener",
+		"nik": null
+	},
+	"435": {
+		"tipo": "R",
+		"formaSimple": "SUCK",
+		"pasadoSimple": "SUCKED",
+		"pasadoParticipio": "SUCKED",
+		"significado": "Sorber - Chupar",
+		"nik": null
+	},
+	"434": {
+		"tipo": "R",
+		"formaSimple": "SUBTRACT",
+		"pasadoSimple": "SUBTRACTED",
+		"pasadoParticipio": "SUBTRACTED",
+		"significado": "Sustraer - Restar",
+		"nik": null
+	},
+	"433": {
+		"tipo": "R",
+		"formaSimple": "STUDY",
+		"pasadoSimple": "STUDIED",
+		"pasadoParticipio": "STUDIED",
+		"significado": "Estudiar",
+		"nik": null
+	},
+	"432": {
+		"tipo": "I",
+		"formaSimple": "STRIVE",
+		"pasadoSimple": "STROVE",
+		"pasadoParticipio": "STRIVEN",
+		"significado": "Esforzarse - Luchar",
+		"nik": null
+	},
+	"431": {
+		"tipo": "I",
+		"formaSimple": "STRIKE",
+		"pasadoSimple": "STRUCK",
+		"pasadoParticipio": "STRUCK",
+		"significado": "Golpear - Atacar - Pegar",
+		"nik": null
+	},
+	"430": {
+		"tipo": "R",
+		"formaSimple": "STOP",
+		"pasadoSimple": "STOPPED",
+		"pasadoParticipio": "STOPPED",
+		"significado": "Parar - Detener",
+		"nik": null
+	},
+	"429": {
+		"tipo": "R",
+		"formaSimple": "STIR",
+		"pasadoSimple": "STIRRED",
+		"pasadoParticipio": "STIRRED",
+		"significado": "Revolver - Remover",
+		"nik": null
+	},
+	"428": {
+		"tipo": "I",
+		"formaSimple": "STINK",
+		"pasadoSimple": "STANK",
+		"pasadoParticipio": "STUNK",
+		"significado": "Apestar - Oler mal",
+		"nik": null
+	},
+	"427": {
+		"tipo": "I",
+		"formaSimple": "STEAL",
+		"pasadoSimple": "STOLE",
+		"pasadoParticipio": "STOLEN",
+		"significado": "Robar - Hurtar",
+		"nik": null
+	},
+	"426": {
+		"tipo": "R",
+		"formaSimple": "STAY",
+		"pasadoSimple": "STAYED",
+		"pasadoParticipio": "STAYED",
+		"significado": "Permanecer - Quedar",
+		"nik": null
+	},
+	"425": {
+		"tipo": "R",
+		"formaSimple": "START",
+		"pasadoSimple": "STARTED",
+		"pasadoParticipio": "STARTED",
+		"significado": "Comenzar - Arrancar",
+		"nik": null
+	},
+	"408": {
+		"tipo": "I",
+		"formaSimple": "STAND",
+		"pasadoSimple": "STOOD",
+		"pasadoParticipio": "STOOD",
+		"significado": "Ponerse de pie - Pararse",
+		"nik": null
+	},
+	"407": {
+		"tipo": "R",
+		"formaSimple": "SQUEEZE",
+		"pasadoSimple": "SQUEEZED",
+		"pasadoParticipio": "SQUEEZED",
+		"significado": "Apretar - Comprimir",
+		"nik": null
+	},
+	"406": {
+		"tipo": "I",
+		"formaSimple": "SPREAD",
+		"pasadoSimple": "SPREAD",
+		"pasadoParticipio": "SPREAD",
+		"significado": "Esparcir - Untar - Extender",
+		"nik": null
+	},
+	"405": {
+		"tipo": "R",
+		"formaSimple": "SPOIL",
+		"pasadoSimple": "SPOILED",
+		"pasadoParticipio": "SPOILED",
+		"significado": "Estropear - Echar a perder - Mimar",
+		"nik": null
+	},
+	"404": {
+		"tipo": "I",
+		"formaSimple": "SPLIT",
+		"pasadoSimple": "SPLIT",
+		"pasadoParticipio": "SPLIT",
+		"significado": "Divir - Partir",
+		"nik": null
+	},
+	"403": {
+		"tipo": "R",
+		"formaSimple": "SPLASH",
+		"pasadoSimple": "SPLASHED",
+		"pasadoParticipio": "SPLASHED",
+		"significado": "Salpicar - Rociar - Chapotear",
+		"nik": null
+	},
+	"402": {
+		"tipo": "I",
+		"formaSimple": "SPIT",
+		"pasadoSimple": "SPIT",
+		"pasadoParticipio": "SPIT",
+		"significado": "Escupir",
+		"nik": null
+	},
+	"401": {
+		"tipo": "I",
+		"formaSimple": "SPIN",
+		"pasadoSimple": "SPUN",
+		"pasadoParticipio": "SPUN",
+		"significado": "Hacer girar - Dar vueltas",
+		"nik": null
+	},
+	"400": {
+		"tipo": "R",
+		"formaSimple": "SPILL",
+		"pasadoSimple": "SPILLED",
+		"pasadoParticipio": "SPILLED",
+		"significado": "Derramar",
+		"nik": null
+	},
+	"399": {
+		"tipo": "I",
+		"formaSimple": "SPEND",
+		"pasadoSimple": "SPENT",
+		"pasadoParticipio": "SPENT",
+		"significado": "Gastar - Pasar el tiempo",
+		"nik": null
+	},
+	"398": {
+		"tipo": "R",
+		"formaSimple": "SPELL",
+		"pasadoSimple": "SPELLED",
+		"pasadoParticipio": "SPELLED",
+		"significado": "Deletrear",
+		"nik": null
+	},
+	"397": {
+		"tipo": "I",
+		"formaSimple": "SPEED",
+		"pasadoSimple": "SPED",
+		"pasadoParticipio": "SPED",
+		"significado": "Acelerar",
+		"nik": null
+	},
+	"396": {
+		"tipo": "I",
+		"formaSimple": "SPEAK",
+		"pasadoSimple": "SPOKE",
+		"pasadoParticipio": "SPOKEN",
+		"significado": "Hablar",
+		"nik": null
+	},
+	"395": {
+		"tipo": "R",
+		"formaSimple": "SOUND",
+		"pasadoSimple": "SOUNDED",
+		"pasadoParticipio": "SOUNDED",
+		"significado": "Sonar - Tocar",
+		"nik": null
+	},
+	"394": {
+		"tipo": "R",
+		"formaSimple": "SOLVE",
+		"pasadoSimple": "SOLVED",
+		"pasadoParticipio": "SOLVED",
+		"significado": "Resolver",
+		"nik": null
+	},
+	"393": {
+		"tipo": "R",
+		"formaSimple": "SNEEZE",
+		"pasadoSimple": "SNEEZED",
+		"pasadoParticipio": "SNEEZED",
+		"significado": "Estornudar",
+		"nik": null
+	},
+	"392": {
+		"tipo": "R",
+		"formaSimple": "SMOKE",
+		"pasadoSimple": "SMOKED",
+		"pasadoParticipio": "SMOKED",
+		"significado": "Fumar",
+		"nik": null
+	},
+	"391": {
+		"tipo": "R",
+		"formaSimple": "SMILE",
+		"pasadoSimple": "SMILED",
+		"pasadoParticipio": "SMILED",
+		"significado": "Sonreir",
+		"nik": null
+	},
+	"390": {
+		"tipo": "R",
+		"formaSimple": "SMELL",
+		"pasadoSimple": "SMELLED",
+		"pasadoParticipio": "SMELLED",
+		"significado": "Oler - Husmear",
+		"nik": null
+	},
+	"389": {
+		"tipo": "I",
+		"formaSimple": "SLIDE",
+		"pasadoSimple": "SLID",
+		"pasadoParticipio": "SLID",
+		"significado": "Resbalar(se)",
+		"nik": null
+	},
+	"388": {
+		"tipo": "R",
+		"formaSimple": "SLICE",
+		"pasadoSimple": "SLICED",
+		"pasadoParticipio": "SLICED",
+		"significado": "Rebanar",
+		"nik": null
+	},
+	"387": {
+		"tipo": "I",
+		"formaSimple": "SLEEP",
+		"pasadoSimple": "SLEPT",
+		"pasadoParticipio": "SLEPT",
+		"significado": "Dormir",
+		"nik": null
+	},
+	"386": {
+		"tipo": "R",
+		"formaSimple": "SKATE",
+		"pasadoSimple": "SKATED",
+		"pasadoParticipio": "SKATED",
+		"significado": "Patinar",
+		"nik": null
+	},
+	"385": {
+		"tipo": "I",
+		"formaSimple": "SIT",
+		"pasadoSimple": "SAT",
+		"pasadoParticipio": "SAT",
+		"significado": "Sentarse",
+		"nik": null
+	},
+	"384": {
+		"tipo": "I",
+		"formaSimple": "SINK",
+		"pasadoSimple": "SANK",
+		"pasadoParticipio": "SUNK",
+		"significado": "Sumergir - Hundir",
+		"nik": null
+	},
+	"383": {
+		"tipo": "I",
+		"formaSimple": "SING",
+		"pasadoSimple": "SANG",
+		"pasadoParticipio": "SUNG",
+		"significado": "Cantar",
+		"nik": null
+	},
+	"382": {
+		"tipo": "R",
+		"formaSimple": "SIGN",
+		"pasadoSimple": "SIGNED",
+		"pasadoParticipio": "SIGNED",
+		"significado": "Firmar",
+		"nik": null
+	},
+	"381": {
+		"tipo": "R",
+		"formaSimple": "SIGH",
+		"pasadoSimple": "SIGHED",
+		"pasadoParticipio": "SIGHED",
+		"significado": "Suspirar - Susurrar",
+		"nik": null
+	},
+	"380": {
+		"tipo": "I",
+		"formaSimple": "SHUT",
+		"pasadoSimple": "SHUT",
+		"pasadoParticipio": "SHUT",
+		"significado": "Cerrar - Callar",
+		"nik": null
+	},
+	"379": {
+		"tipo": "I",
+		"formaSimple": "SHRINK",
+		"pasadoSimple": "SHRANK",
+		"pasadoParticipio": "SHRUNK",
+		"significado": "Encoger - Contraer",
+		"nik": null
+	},
+	"378": {
+		"tipo": "R",
+		"formaSimple": "SHOW",
+		"pasadoSimple": "SHOWED",
+		"pasadoParticipio": "SHOWED",
+		"significado": "Mostrar - Enseñar",
+		"nik": null
+	},
+	"377": {
+		"tipo": "R",
+		"formaSimple": "SHOUT",
+		"pasadoSimple": "SHOUTED",
+		"pasadoParticipio": "SHOUTED",
+		"significado": "Gritar",
+		"nik": null
+	},
+	"376": {
+		"tipo": "R",
+		"formaSimple": "SHOP",
+		"pasadoSimple": "SHOPPED",
+		"pasadoParticipio": "SHOPPED",
+		"significado": "Comprar en tiendas",
+		"nik": null
+	},
+	"375": {
+		"tipo": "I",
+		"formaSimple": "SHOOT",
+		"pasadoSimple": "SHOT",
+		"pasadoParticipio": "SHOT",
+		"significado": "Tirar - Disparar",
+		"nik": null
+	},
+	"374": {
+		"tipo": "I",
+		"formaSimple": "SHINE",
+		"pasadoSimple": "SHONE",
+		"pasadoParticipio": "SHONE",
+		"significado": "Brillar - Alumbrar",
+		"nik": null
+	},
+	"373": {
+		"tipo": "R",
+		"formaSimple": "SHARPEN",
+		"pasadoSimple": "SHARPENED",
+		"pasadoParticipio": "SHARPENED",
+		"significado": "Afilar - Amolar",
+		"nik": null
+	},
+	"372": {
+		"tipo": "R",
+		"formaSimple": "SHARE",
+		"pasadoSimple": "SHARED",
+		"pasadoParticipio": "SHARED",
+		"significado": "Compartir",
+		"nik": null
+	},
+	"127": {
+		"tipo": "R",
+		"formaSimple": "DIVIDE",
+		"pasadoSimple": "DIVIDED",
+		"pasadoParticipio": "DIVIDED",
+		"significado": "Dividir - Separar",
+		"nik": null
+	},
+	"126": {
+		"tipo": "R",
+		"formaSimple": "DISCUSS",
+		"pasadoSimple": "DISCUSSED",
+		"pasadoParticipio": "DISCUSSED",
+		"significado": "Discutir",
+		"nik": null
+	},
+	"125": {
+		"tipo": "R",
+		"formaSimple": "DISCOVER",
+		"pasadoSimple": "DISCOVERED",
+		"pasadoParticipio": "DISCOVERED",
+		"significado": "Descubrir",
+		"nik": null
+	},
+	"124": {
+		"tipo": "R",
+		"formaSimple": "DISAGREE",
+		"pasadoSimple": "DISAGREED",
+		"pasadoParticipio": "DISAGREED",
+		"significado": "Discrepar - No estar de acuerdo",
+		"nik": null
+	},
+	"123": {
+		"tipo": "I",
+		"formaSimple": "DIG",
+		"pasadoSimple": "DUG",
+		"pasadoParticipio": "DUG",
+		"significado": "Cavar - Escavar",
+		"nik": null
+	},
+	"122": {
+		"tipo": "R",
+		"formaSimple": "DIE",
+		"pasadoSimple": "DIED",
+		"pasadoParticipio": "DIED",
+		"significado": "Morir",
+		"nik": null
+	},
+	"121": {
+		"tipo": "R",
+		"formaSimple": "DICTATE",
+		"pasadoSimple": "DICTATED",
+		"pasadoParticipio": "DICTATED",
+		"significado": "Dictar",
+		"nik": null
+	},
+	"120": {
+		"tipo": "R",
+		"formaSimple": "DESTROY",
+		"pasadoSimple": "DESTROYED",
+		"pasadoParticipio": "DESTROYED",
+		"significado": "Destruir",
+		"nik": null
+	},
+	"119": {
+		"tipo": "R",
+		"formaSimple": "DESCRIBE",
+		"pasadoSimple": "DESCRIBED",
+		"pasadoParticipio": "DESCRIBED",
+		"significado": "Describir",
+		"nik": null
+	},
+	"118": {
+		"tipo": "R",
+		"formaSimple": "DEPEND",
+		"pasadoSimple": "DEPENDED",
+		"pasadoParticipio": "DEPENDED",
+		"significado": "Depender",
+		"nik": null
+	},
+	"117": {
+		"tipo": "R",
+		"formaSimple": "DEMONSTRATE",
+		"pasadoSimple": "DEMONSTRATED",
+		"pasadoParticipio": "DEMONSTRATED",
+		"significado": "Demostrar",
+		"nik": null
+	},
+	"116": {
+		"tipo": "R",
+		"formaSimple": "DECORATE",
+		"pasadoSimple": "DECORATED",
+		"pasadoParticipio": "DECORATED",
+		"significado": "Decorar - Adornar",
+		"nik": null
+	},
+	"115": {
+		"tipo": "R",
+		"formaSimple": "DECLARE",
+		"pasadoSimple": "DECLARED",
+		"pasadoParticipio": "DECLARED",
+		"significado": "Declarar",
+		"nik": null
+	},
+	"114": {
+		"tipo": "R",
+		"formaSimple": "DECIDE",
+		"pasadoSimple": "DECIDED",
+		"pasadoParticipio": "DECIDED",
+		"significado": "Decidir",
+		"nik": null
+	},
+	"113": {
+		"tipo": "I",
+		"formaSimple": "DEAL",
+		"pasadoSimple": "DEALT",
+		"pasadoParticipio": "DEALT",
+		"significado": "Distribuir - Negociar",
+		"nik": null
+	},
+	"112": {
+		"tipo": "R",
+		"formaSimple": "DANCE",
+		"pasadoSimple": "DANCED",
+		"pasadoParticipio": "DANCED",
+		"significado": "Bailar",
+		"nik": null
+	},
+	"111": {
+		"tipo": "I",
+		"formaSimple": "CUT",
+		"pasadoSimple": "CUT",
+		"pasadoParticipio": "CUT",
+		"significado": "Cortar",
+		"nik": null
+	},
+	"110": {
+		"tipo": "R",
+		"formaSimple": "CRY",
+		"pasadoSimple": "CRIED",
+		"pasadoParticipio": "CRIED",
+		"significado": "Llorar - Gritar",
+		"nik": null
+	},
+	"109": {
+		"tipo": "R",
+		"formaSimple": "CROSS",
+		"pasadoSimple": "CROSSED",
+		"pasadoParticipio": "CROSSED",
+		"significado": "Cruzar - Atravesar",
+		"nik": null
+	},
+	"108": {
+		"tipo": "R",
+		"formaSimple": "COVER",
+		"pasadoSimple": "COVERED",
+		"pasadoParticipio": "COVERED",
+		"significado": "Cubrir",
+		"nik": null
+	},
+	"107": {
+		"tipo": "R",
+		"formaSimple": "COUNT",
+		"pasadoSimple": "COUNTED",
+		"pasadoParticipio": "COUNTED",
+		"significado": "Contar - Calcular",
+		"nik": null
+	},
+	"90": {
+		"tipo": "R",
+		"formaSimple": "COST",
+		"pasadoSimple": "COST",
+		"pasadoParticipio": "COST",
+		"significado": "Costar - Valer",
+		"nik": null
+	},
+	"89": {
+		"tipo": "R",
+		"formaSimple": "COPY",
+		"pasadoSimple": "COPIED",
+		"pasadoParticipio": "COPIED",
+		"significado": "Copiar - imitar",
+		"nik": null
+	},
+	"88": {
+		"tipo": "R",
+		"formaSimple": "COOL",
+		"pasadoSimple": "COOLED",
+		"pasadoParticipio": "COOLED",
+		"significado": "Enfriar - Refrigerar",
+		"nik": null
+	},
+	"87": {
+		"tipo": "R",
+		"formaSimple": "COOK",
+		"pasadoSimple": "COOKED",
+		"pasadoParticipio": "COOKED",
+		"significado": "Cocinar",
+		"nik": null
+	},
+	"86": {
+		"tipo": "R",
+		"formaSimple": "CONVINCE",
+		"pasadoSimple": "CONVINCED",
+		"pasadoParticipio": "CONVINCED",
+		"significado": "Convencer",
+		"nik": null
+	},
+	"85": {
+		"tipo": "R",
+		"formaSimple": "CONTINUE",
+		"pasadoSimple": "CONTINUED",
+		"pasadoParticipio": "CONTINUED",
+		"significado": "Continuar",
+		"nik": null
+	},
+	"84": {
+		"tipo": "R",
+		"formaSimple": "COMPLETE",
+		"pasadoSimple": "COMPLETED",
+		"pasadoParticipio": "COMPLETED",
+		"significado": "Completar",
+		"nik": null
+	},
+	"83": {
+		"tipo": "R",
+		"formaSimple": "COMPLAIN",
+		"pasadoSimple": "COMPLAINED",
+		"pasadoParticipio": "COMPLAINED",
+		"significado": "Quejar(se) - Reclamar",
+		"nik": null
+	},
+	"82": {
+		"tipo": "R",
+		"formaSimple": "COMMENT",
+		"pasadoSimple": "COMMENTED",
+		"pasadoParticipio": "COMMENTED",
+		"significado": "Comentar",
+		"nik": null
+	},
+	"81": {
+		"tipo": "I",
+		"formaSimple": "COME",
+		"pasadoSimple": "CAME",
+		"pasadoParticipio": "COME",
+		"significado": "Venir",
+		"nik": null
+	},
+	"80": {
+		"tipo": "R",
+		"formaSimple": "COLLECT",
+		"pasadoSimple": "COLLECTED",
+		"pasadoParticipio": "COLLECTED",
+		"significado": "Coleccionar",
+		"nik": null
+	},
+	"79": {
+		"tipo": "R",
+		"formaSimple": "CLOSE",
+		"pasadoSimple": "CLOSED",
+		"pasadoParticipio": "CLOSED",
+		"significado": "Cerrar - Finalizar",
+		"nik": null
+	},
+	"78": {
+		"tipo": "I",
+		"formaSimple": "CLING",
+		"pasadoSimple": "CLUNG",
+		"pasadoParticipio": "CLUNG",
+		"significado": "Agarrarse - Aferrarse",
+		"nik": null
+	},
+	"77": {
+		"tipo": "R",
+		"formaSimple": "CLIMB",
+		"pasadoSimple": "CLIMBED",
+		"pasadoParticipio": "CLIMBED",
+		"significado": "Trepar - Subir - Escalar",
+		"nik": null
+	},
+	"76": {
+		"tipo": "R",
+		"formaSimple": "CLEAN",
+		"pasadoSimple": "CLEANED",
+		"pasadoParticipio": "CLEANED",
+		"significado": "Limpiar - Asear",
+		"nik": null
+	},
+	"75": {
+		"tipo": "R",
+		"formaSimple": "CLAP",
+		"pasadoSimple": "CLAPPED",
+		"pasadoParticipio": "CLAPPED",
+		"significado": "Aplaudir",
+		"nik": null
+	},
+	"74": {
+		"tipo": "R",
+		"formaSimple": "CIRCLE",
+		"pasadoSimple": "CIRCLED",
+		"pasadoParticipio": "CIRCLED",
+		"significado": "Rodear - Cercar ",
+		"nik": null
+	},
+	"73": {
+		"tipo": "I",
+		"formaSimple": "CHOOSE",
+		"pasadoSimple": "CHOSE",
+		"pasadoParticipio": "CHOSEN",
+		"significado": "Elegir - Escoger - Seleccionar",
+		"nik": null
+	},
+	"72": {
+		"tipo": "R",
+		"formaSimple": "CHILL",
+		"pasadoSimple": "CHILLED",
+		"pasadoParticipio": "CHILLED",
+		"significado": "Resfriar - Enfriar",
+		"nik": null
+	},
+	"71": {
+		"tipo": "R",
+		"formaSimple": "CHEW",
+		"pasadoSimple": "CHEWED",
+		"pasadoParticipio": "CHEWED",
+		"significado": "Masticar - Rumiar",
+		"nik": null
+	},
+	"70": {
+		"tipo": "R",
+		"formaSimple": "CHECK",
+		"pasadoSimple": "CHECKED",
+		"pasadoParticipio": "CHECKED",
+		"significado": "Revisar - Comprobar",
+		"nik": null
+	},
+	"69": {
+		"tipo": "R",
+		"formaSimple": "CHARGE",
+		"pasadoSimple": "CHARGED",
+		"pasadoParticipio": "CHARGED",
+		"significado": "Cobrar - Cargar",
+		"nik": null
+	},
+	"68": {
+		"tipo": "R",
+		"formaSimple": "CHANGE",
+		"pasadoSimple": "CHANGED",
+		"pasadoParticipio": "CHANGED",
+		"significado": "Cambiar ",
+		"nik": null
+	},
+	"67": {
+		"tipo": "R",
+		"formaSimple": "CELEBRATE",
+		"pasadoSimple": "CELEBRATED",
+		"pasadoParticipio": "CELEBRATED",
+		"significado": "Celebrar",
+		"nik": null
+	},
+	"66": {
+		"tipo": "I",
+		"formaSimple": "CATCH",
+		"pasadoSimple": "CAUGHT",
+		"pasadoParticipio": "CAUGHT",
+		"significado": "Coger - Agarrar",
+		"nik": null
+	},
+	"65": {
+		"tipo": "R",
+		"formaSimple": "CARRY",
+		"pasadoSimple": "CARRIED",
+		"pasadoParticipio": "CARRIED",
+		"significado": "Llevar - Cargar",
+		"nik": null
+	},
+	"64": {
+		"tipo": "R",
+		"formaSimple": "CARE",
+		"pasadoSimple": "CARED",
+		"pasadoParticipio": "CARED",
+		"significado": "Cuidar - Preocuparse",
+		"nik": null
+	},
+	"63": {
+		"tipo": "R",
+		"formaSimple": "CANCEL",
+		"pasadoSimple": "CANCELLED",
+		"pasadoParticipio": "CANCELLED",
+		"significado": "Cancelar",
+		"nik": null
+	},
+	"62": {
+		"tipo": "R",
+		"formaSimple": "CAMP",
+		"pasadoSimple": "CAMPED",
+		"pasadoParticipio": "CAMPED",
+		"significado": "Acampar",
+		"nik": null
+	},
+	"61": {
+		"tipo": "R",
+		"formaSimple": "CALL",
+		"pasadoSimple": "CALLED",
+		"pasadoParticipio": "CALLED",
+		"significado": "Llamar",
+		"nik": null
+	},
+	"60": {
+		"tipo": "I",
+		"formaSimple": "BUY",
+		"pasadoSimple": "BOUGHT",
+		"pasadoParticipio": "BOUGHT",
+		"significado": "Comprar - Adquirir",
+		"nik": null
+	},
+	"59": {
+		"tipo": "I",
+		"formaSimple": "BURST",
+		"pasadoSimple": "BURST",
+		"pasadoParticipio": "BURST",
+		"significado": "Estallar - Reventar",
+		"nik": null
+	},
+	"58": {
+		"tipo": "R",
+		"formaSimple": "BURN",
+		"pasadoSimple": "BURNED",
+		"pasadoParticipio": "BURNED",
+		"significado": "Quemar(se)",
+		"nik": null
+	},
+	"57": {
+		"tipo": "I",
+		"formaSimple": "BUILD",
+		"pasadoSimple": "BUILT",
+		"pasadoParticipio": "BUILT",
+		"significado": "Construir - Edificar",
+		"nik": null
+	},
+	"56": {
+		"tipo": "R",
+		"formaSimple": "BRUSH",
+		"pasadoSimple": "BRUSHED",
+		"pasadoParticipio": "BRUSHED",
+		"significado": "Cepillar",
+		"nik": null
+	},
+	"55": {
+		"tipo": "R",
+		"formaSimple": "BROWN",
+		"pasadoSimple": "BROWN",
+		"pasadoParticipio": "BROWN",
+		"significado": "Tostar - Dorar",
+		"nik": null
+	},
+	"54": {
+		"tipo": "I",
+		"formaSimple": "BROADCAST",
+		"pasadoSimple": "BROADCAST",
+		"pasadoParticipio": "BROADCAST",
+		"significado": "Difundir - Emitir",
+		"nik": null
+	},
+	"37": {
+		"tipo": "I",
+		"formaSimple": "BREED",
+		"pasadoSimple": "BRED",
+		"pasadoParticipio": "BRED",
+		"significado": "Criar - Educar",
+		"nik": null
+	},
+	"36": {
+		"tipo": "I",
+		"formaSimple": "BREAK",
+		"pasadoSimple": "BROKE",
+		"pasadoParticipio": "BROKEN",
+		"significado": "Romper - Quebrar",
+		"nik": null
+	},
+	"35": {
+		"tipo": "R",
+		"formaSimple": "BOTHER",
+		"pasadoSimple": "BOTHERED",
+		"pasadoParticipio": "BOTHERED",
+		"significado": "Molestar",
+		"nik": null
+	},
+	"34": {
+		"tipo": "R",
+		"formaSimple": "BORROW",
+		"pasadoSimple": "BORROWED",
+		"pasadoParticipio": "BORROWED",
+		"significado": "Pedir prestado",
+		"nik": null
+	},
+	"33": {
+		"tipo": "R",
+		"formaSimple": "BOIL",
+		"pasadoSimple": "BOILED",
+		"pasadoParticipio": "BOILED",
+		"significado": "Hervir",
+		"nik": null
+	},
+	"32": {
+		"tipo": "r",
+		"formaSimple": "BLUSH",
+		"pasadoSimple": "BLUSHED",
+		"pasadoParticipio": "BLUSHED",
+		"significado": "Ruborizar - Sonrojar",
+		"nik": null
+	},
+	"31": {
+		"tipo": "I",
+		"formaSimple": "BLOW",
+		"pasadoSimple": "BLEW",
+		"pasadoParticipio": "BLOWN",
+		"significado": "Soplar - Ventear",
+		"nik": null
+	},
+	"30": {
+		"tipo": "I",
+		"formaSimple": "BLEED",
+		"pasadoSimple": "BLED",
+		"pasadoParticipio": "BLED",
+		"significado": "Sangrar",
+		"nik": null
+	},
+	"29": {
+		"tipo": "I",
+		"formaSimple": "BITE",
+		"pasadoSimple": "BIT",
+		"pasadoParticipio": "BITTEN",
+		"significado": "Morder - Picar",
+		"nik": null
+	},
+	"28": {
+		"tipo": "I",
+		"formaSimple": "BIND",
+		"pasadoSimple": "BOUND",
+		"pasadoParticipio": "BOUND",
+		"significado": "Atar - Pegar - Enlazar",
+		"nik": null
+	},
+	"27": {
+		"tipo": "I",
+		"formaSimple": "BID",
+		"pasadoSimple": "BID ",
+		"pasadoParticipio": "BID",
+		"significado": "Ofrecer - Ofertar - Mandar",
+		"nik": null
+	},
+	"26": {
+		"tipo": "I",
+		"formaSimple": "BET",
+		"pasadoSimple": "BET",
+		"pasadoParticipio": "BET",
+		"significado": "Apostar",
+		"nik": null
+	},
+	"25": {
+		"tipo": "I",
+		"formaSimple": "BEND",
+		"pasadoSimple": "BENT",
+		"pasadoParticipio": "BENT",
+		"significado": "Doblarse - Encorvarse",
+		"nik": null
+	},
+	"24": {
+		"tipo": "R",
+		"formaSimple": "BELONG",
+		"pasadoSimple": "BELONGED",
+		"pasadoParticipio": "BELONGED",
+		"significado": "Pertenecer",
+		"nik": null
+	},
+	"23": {
+		"tipo": "R",
+		"formaSimple": "BELIEVE",
+		"pasadoSimple": "BELIEVED",
+		"pasadoParticipio": "BELIEVED",
+		"significado": "Creer",
+		"nik": null
+	},
+	"22": {
+		"tipo": "I",
+		"formaSimple": "BEGIN",
+		"pasadoSimple": "BEGAN",
+		"pasadoParticipio": "BEGUN",
+		"significado": "Comenzar - Empezar",
+		"nik": null
+	},
+	"21": {
+		"tipo": "I",
+		"formaSimple": "BECOME",
+		"pasadoSimple": "BECAME",
+		"pasadoParticipio": "BECOME",
+		"significado": "Llegar a ser - Convertirse",
+		"nik": null
+	},
+	"20": {
+		"tipo": "I",
+		"formaSimple": "BEAT",
+		"pasadoSimple": "BEAT",
+		"pasadoParticipio": "BEATEN",
+		"significado": "Golpear - Batir",
+		"nik": null
+	},
+	"19": {
+		"tipo": "I",
+		"formaSimple": "BEAR",
+		"pasadoSimple": "BORE",
+		"pasadoParticipio": "BORN",
+		"significado": "Nacer",
+		"nik": null
+	},
+	"18": {
+		"tipo": "I",
+		"formaSimple": "BE",
+		"pasadoSimple": "WAS - WERE",
+		"pasadoParticipio": "BEEN",
+		"significado": "Ser - Estar",
+		"nik": null
+	},
+	"17": {
+		"tipo": "R",
+		"formaSimple": "BATHE",
+		"pasadoSimple": "BATHED",
+		"pasadoParticipio": "BATHED",
+		"significado": "Bañar(se)",
+		"nik": null
+	},
+	"16": {
+		"tipo": "R",
+		"formaSimple": "BAKE",
+		"pasadoSimple": "BAKED",
+		"pasadoParticipio": "BAKED",
+		"significado": "Hornear - Cocer",
+		"nik": null
+	},
+	"15": {
+		"tipo": "R",
+		"formaSimple": "AWARD",
+		"pasadoSimple": "AWARDED",
+		"pasadoParticipio": "AWARDED",
+		"significado": "Otorgar - Premiar",
+		"nik": null
+	},
+	"14": {
+		"tipo": "I",
+		"formaSimple": "AWAKE",
+		"pasadoSimple": "AWOKE",
+		"pasadoParticipio": "AWOKE",
+		"significado": "Despertar(se)",
+		"nik": null
+	},
+	"13": {
+		"tipo": "R",
+		"formaSimple": "ATTEND",
+		"pasadoSimple": "ATTENDED",
+		"pasadoParticipio": "ATTENDED",
+		"significado": "Asistir - Acompañar",
+		"nik": null
+	},
+	"12": {
+		"tipo": "R",
+		"formaSimple": "ATTACH",
+		"pasadoSimple": "ATTACHED",
+		"pasadoParticipio": "ATTACHED",
+		"significado": "Unir - Juntar",
+		"nik": null
+	},
+	"11": {
+		"tipo": "R",
+		"formaSimple": "ASSIST",
+		"pasadoSimple": "ASSISTED",
+		"pasadoParticipio": "ASSISTED",
+		"significado": "Ayudar - Asistir",
+		"nik": null
+	},
+	"10": {
+		"tipo": "R",
+		"formaSimple": "ASSIGN",
+		"pasadoSimple": "ASSIGNED",
+		"pasadoParticipio": "ASSIGNED",
+		"significado": "Asignar - Designar",
+		"nik": null
+	},
+	"9": {
+		"tipo": "R",
+		"formaSimple": "ASK",
+		"pasadoSimple": "ASKED",
+		"pasadoParticipio": "ASKED",
+		"significado": "Preguntar - Pedir",
+		"nik": null
+	},
+	"8": {
+		"tipo": "R",
+		"formaSimple": "ARRIVE",
+		"pasadoSimple": "ARRIVED",
+		"pasadoParticipio": "ARRIVED",
+		"significado": "Llegar - Arribar",
+		"nik": null
+	},
+	"7": {
+		"tipo": "I",
+		"formaSimple": "ARISE",
+		"pasadoSimple": "AROSE",
+		"pasadoParticipio": "ARISEN",
+		"significado": "Surgir - Levantarse",
+		"nik": null
+	},
+	"6": {
+		"tipo": "R",
+		"formaSimple": "ABSORB",
+		"pasadoSimple": "ABSORBED",
+		"pasadoParticipio": "ABSORBED",
+		"significado": "Absorver",
+		"nik": null
+	},
+	"5": {
+		"tipo": "R",
+		"formaSimple": "ANSWER",
+		"pasadoSimple": "ANSWERED",
+		"pasadoParticipio": "ANSWERED",
+		"significado": "Responder - Contestar",
+		"nik": null
+	},
+	"4": {
+		"tipo": "R",
+		"formaSimple": "AGREE",
+		"pasadoSimple": "AGREED",
+		"pasadoParticipio": "AGREED",
+		"significado": "Estar de acuerdo",
+		"nik": null
+	},
+	"3": {
+		"tipo": "R",
+		"formaSimple": "APPEAR",
+		"pasadoSimple": "APPEARED",
+		"pasadoParticipio": "APPEARED",
+		"significado": "Aparecer",
+		"nik": null
+	},
+	"2": {
+		"tipo": "R",
+		"formaSimple": "ADVANCE",
+		"pasadoSimple": "ADVANCED",
+		"pasadoParticipio": "ADVANCED",
+		"significado": "Avanzar - Adelantar",
+		"nik": null
+	},
+	"1": {
+		"tipo": "R",
+		"formaSimple": "ADD",
+		"pasadoSimple": "ADDED",
+		"pasadoParticipio": "ADDED",
+		"significado": "Agregar - Añadir",
+		"nik": null
+	}
+}
